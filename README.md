@@ -21,6 +21,8 @@ The MindPointGroup project for RHEL originated from work done by [Sam Doran](htt
 
 This repo started as a fork of this MindPointGroup RHEL project [MindPoingGroup](https://github.com/MindPointGroup/RHEL6-STIG.git)
 
+Jonathan Davila wrote an excellent blog article on integrating CI into the devel process for this role, [here](http://blog.davila.io/posts/automatically-testing-and-validation-the-ansible-stig-role-for-red-hat-6.html)
+
 Requirements
 ------------
 
